@@ -1,0 +1,1 @@
+export { default } from 'ets-addon-example/components/foo-bar';
